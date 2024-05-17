@@ -1,6 +1,6 @@
 {
-  "id": "obsidian-esv-bible",
-  "name": "Obsidian ESV Bible",
+  "id": "esv-bible",
+  "name": "ESV Bible",
   "version": "1.0.0",
   "author": "Jake Price",
   "description": "Insert the referenced bible verse using the ESV API.",
